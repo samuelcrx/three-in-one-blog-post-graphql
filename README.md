@@ -71,3 +71,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Conclusion
+
+As a developer, we combine different bricks of technologies to set up a viable ecosystem 🌍 for our project. In a javascript ecosystem, the advantage (or the disadvantage) is the abundance of brick and the possibility of combination. I hope to still have some motivation to be able to write a sequel to this blog post which explains the integration of this GraphQL API in a monorepo development environment and thus shares this data model between several applications and libraries.
